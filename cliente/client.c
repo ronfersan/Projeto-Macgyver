@@ -20,6 +20,8 @@
 #include <errno.h>
 
 #include "../headers/dump_io.h"
+#include "../headers/upload.h"
+
 
 #define TRUE 	1
 #define FALSE 	0
